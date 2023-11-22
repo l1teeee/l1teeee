@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Julián Méndez</h1>
 <h3 align="center">Frontend designer and developer</h3>
-
+<h3 align="center">Hello! My name is Julián Méndez and I'm 21 years old. I'm a passionate frontend developer with experience in brand design and rebranding. I love creating captivating and functional digital experiences for users. With skills in HTML, CSS, and JavaScript, I can turn creative ideas into interactive and appealing websites. Furthermore, my experience in brand design and rebranding allows me to understand the importance of conveying a strong and consistent visual identity. I'm constantly seeking new opportunities to enhance my skills and stay updated with the latest trends in web development and design. I'm always excited about the challenges that the digital world presents, and I'm ready to take projects to the next level.</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/oftenyul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oftenyul" height="30" width="40" /></a>
