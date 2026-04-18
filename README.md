@@ -12,5 +12,4 @@
 
 ## Contact
 📧 [official.count.alejandro@gmail.com](mailto:official.count.alejandro@gmail.com)  
-🔗 [@juliandmz](https://github.com/juliandmz)  
 🌐 [portafolio-pink-two.vercel.app](https://portafolio-pink-two.vercel.app/)
