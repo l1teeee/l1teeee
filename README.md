@@ -1,5 +1,5 @@
 # Julian Mendez
-**Frontend Developer | Full Stack Engineer | El Salvador**
+**Full-Stack & Cloud Infrastructure | Software Engineer | El Salvador**
 
 ## Tech Stack
 **Frontend:** React, Next.js, Angular, TypeScript, TailwindCSS v4, GSAP, Lenis, Three.js, Vite, Astro
