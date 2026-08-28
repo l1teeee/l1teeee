@@ -19,4 +19,4 @@
 
 ## Contact
 📧 [official.count.alejandro@gmail.com](mailto:official.count.alejandro@gmail.com)  
-🌐 [[https://julian-menz.dev/]((https://julian-menz.dev/))
+🌐 [https://julian-menz.dev/((https://julian-menz.dev/))
