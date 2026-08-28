@@ -19,4 +19,4 @@
 
 ## Contact
 📧 [official.count.alejandro@gmail.com](mailto:official.count.alejandro@gmail.com)  
-🌐 [portafolio-pink-two.vercel.app](https://portafolio-pink-two.vercel.app/)
+🌐 [portafolio-pink-two.vercel.app]([https://portafolio-pink-two.vercel.app/](https://julian-menz.dev/))
