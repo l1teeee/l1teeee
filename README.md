@@ -1,5 +1,5 @@
 # Julian Mendez
-**Full-Stack & Cloud Infrastructure | Software Engineer | El Salvador**
+**Software Engineer · Product Engineer · Forward Deployed Engineer**
 
 ## Tech Stack
 
